@@ -7,4 +7,4 @@ total = input("ingrese el total de la cuenta: ")
 num_personas = input("ingrese el numero de personas: ")
 division = int(total) / int(num_personas)
 propina = int(total) * int(porcentaje) / 100
-print(f"entre los {num_personas} van a pagar {division} y la propina sera de {propina}")
+print(f"entre los {num_personas} van a pagar ${division} y la propina sera de {propina}")
