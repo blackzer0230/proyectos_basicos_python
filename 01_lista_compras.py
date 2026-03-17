@@ -5,7 +5,7 @@
 #    La lista debe persistir mientras el programa corre
 
 
-lista_compras = list()
+lista_compras = list(["manzanas", "peras", "limon", "putas"])
 
 
 while True:
